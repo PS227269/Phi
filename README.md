@@ -1,0 +1,2 @@
+# Phi
+School = Summa College
